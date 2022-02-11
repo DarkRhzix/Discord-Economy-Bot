@@ -1,14 +1,14 @@
 # Welcome To Economy Discord Bot <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-* This `Economy Discord Bot` Made by ```server/king```
+* This `Economy Discord Bot` Made by ```DarkRhzix```
 * Language : JavaScript/NodeJS (Core Lang : EN)
 * Library : Discord.js
 * Framework used : quick.eco by Snowflake Development
 
 # Links
-* [`Youtube Channel`](https://www.youtube.com/channel/UCgzsVh72qLsSjXeu6f3Txtg)
-* [`Support Server Link`](https://discord.gg/MG3n4Bn98Q)
+* [`Youtube Channel`](https://www.youtube.com/channel/UCtTFqrCG2FZCs99NOMLf8yQ)
+* [`Support Server Link`](https://discord.gg/HyZutEk)
 # Copyright 
-Copyright 2020 © All RIghts are Reserved | If you are using any part of code please give me credits for the same. Thanks
+Copyright 2022 © All RIghts are Reserved | If you are using any part of code please give me credits for the same. Thanks
 
 # Features
 - Shop
